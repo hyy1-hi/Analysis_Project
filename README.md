@@ -1,4 +1,4 @@
-# Analysis_Project
+# Analysis Project
 -	Time series analysis and forecasting for ISK-USD exchange rate.
 -	NPX value (protein) analysis with models comparison.
 -	Apply financial models such as linear/non-linear regression and classification
