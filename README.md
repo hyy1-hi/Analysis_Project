@@ -3,4 +3,4 @@
 -	Demostrate Data managemant, cleaning, and preparation process. 
 NPX value (protein) analysis with models comparison. [npx](npx.html)
 -	Pricing analysis and formula demonstration. [pricing analysis](pricing_analysis.xlsx) [formula](formula.html)
--	Use ARIMA for time series analysis and forecasting. [arima](timeseries.html)
+
